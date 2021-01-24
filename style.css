@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.carousel-inner img {
+    border-style: solid;
+    border-color: #689F38 border: 1px border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+    height: 450px;
+}
+
+img {
+    border-style: solid;
+    border-color: #689F38 border: 1px border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+    height: 450px;
+}
